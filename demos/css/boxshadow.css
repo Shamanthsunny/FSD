@@ -1,0 +1,14 @@
+div {
+    color: blue;
+    box-shadow: red 5px 3px 4px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+h2 {
+    color: red;
+    box-shadow: blue 6px 4px 9px;
+    float: right;
+
+
+}

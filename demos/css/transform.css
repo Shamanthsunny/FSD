@@ -1,0 +1,10 @@
+div {
+    width: 200px;
+    height: 300px;
+    color: azure;
+    background-color: blue;
+    border-radius: 1px solid black;
+    /*transform: rotate(30deg);
+    transform: scale(1.5,0.5);*/
+    transform: skew(10deg,5deg);
+}

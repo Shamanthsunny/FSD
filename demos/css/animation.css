@@ -1,0 +1,16 @@
+#para1 {
+    background-color: rgba(122,48, 133,0.5);
+    color: white;
+    height: 30%;
+    border-radius: 10px;
+}
+.container {
+    border: 1px solid black;
+    height: 70vh;
+    background-color: brown;
+}
+#para2 {
+    background-image: url("https://images.pexels.com/photos/1804035/pexels-photo-1804035.jpeg?cs=srgb&dl=pexels-sohel-patel-1804035.jpg&fm=jpg");
+    height: 600px;
+    width: 600px;
+}

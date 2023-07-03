@@ -1,0 +1,9 @@
+h1 {
+    color: black;
+    text-shadow: red -2px -5px;
+
+}
+h2 {
+    color: blue;
+    text-shadow: yellow -6px 2px 5px;
+}

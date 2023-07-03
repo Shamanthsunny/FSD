@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+}
+.nav li {
+    float: left;
+    color: blue;
+    margin: 12px 15px;
+}
+.nav li a {
+    text-decoration: none;
+}
+.nav {
+    background-color: black;
+}
+.nav ul {
+    overflow: auto;
+}
+.search {
+    float: right;
+    margin-top: 10px;
+}
+#search {
+    border: 2px solid green;
+    border-radius: 20px;
+}
+.img {
+    float: left;
+    width: 60vw;
+    border: 1px solid black;
+    margin-top: 5px;
+
+}
+.para {
+    float: left;
+    width: 40vw;
+    border: 1px solid black;
+    margin-top: 5px;
+}
